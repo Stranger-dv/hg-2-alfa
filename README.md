@@ -1,1 +1,6 @@
-# hg-2-alfa
+# alfa
+
+| Nombre | Ubicación |
+| ------ | ------ |
+| Miguel Polanco | Venezuela |
+| Jorbi Fernandez | Venezuela |
